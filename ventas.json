@@ -1,0 +1,17 @@
+{
+  "2023": [
+      { "month": "Enero", "sales": 1200 },
+      { "month": "Febrero", "sales": 1500 },
+      { "month": "Marzo", "sales": 1100 }
+  ],
+  "2024": [
+      { "month": "Enero", "sales": 1800 },
+      { "month": "Febrero", "sales": 1400 },
+      { "month": "Marzo", "sales": 2000 }
+  ],
+  "2025": [
+      { "month": "Enero", "sales": 1300 },
+      { "month": "Febrero", "sales": 1600 },
+      { "month": "Marzo", "sales": 1700 }
+  ]
+}
